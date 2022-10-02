@@ -11,7 +11,7 @@ const auth = (form) => {
             return
         }
         alert("fired");
-        window.location.href = "../templates/login.html"
+        window.location.href = "/login"
     })
 }
 
